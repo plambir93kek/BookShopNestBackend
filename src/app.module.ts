@@ -8,7 +8,7 @@ import { CartModule } from './cart/cart.module';
 
 
 @Module({
-  imports: [MongooseModule.forRoot('mongodb+srv://admin:repolka79@cluster0.4ezdr.mongodb.net/music-platform?retryWrites=true&w=majority'),
+  imports: [MongooseModule.forRoot('mongodb+srv://admin:****@cluster0.4ezdr.mongodb.net/music-platform?retryWrites=true&w=majority'),
   BooksModule,
   AuthModule,
   CartModule,

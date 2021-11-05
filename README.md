@@ -1,5 +1,5 @@
 # Backend для моего Пэт-проекта BookShop
-### Frontend:
+### Frontend: https://github.com/plambir93kek/BookShopReactFrontend
 
 ### Стек :
 * Nest.js
